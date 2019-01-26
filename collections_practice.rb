@@ -40,7 +40,7 @@ kesha_maker(["fast", "last", "past"])
  word = ["apple", "banana", "strawberry"]
  
  def find_a(array)
-  array.find_all do |word|
+  array.find_start_with do |word|
     word[0] == "a"
   end
 end
