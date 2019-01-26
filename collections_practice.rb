@@ -58,13 +58,13 @@ end
 def add_s(array)
   array.collect do |words|
     if array[1] == words
-      words
+    words
     else
       words + "s"
     end
   end
-  
-add_s(["apple", "banana", "pineapple"])
+end
+add_s(["banana", "apple", "pineapple"])
   
   
   
