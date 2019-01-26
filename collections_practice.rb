@@ -37,6 +37,7 @@ end
 kesha_maker(["fast", "last", "past"])
     
     
-  
+ def find_a
+   
   
  
