@@ -44,5 +44,11 @@ kesha_maker(["fast", "last", "past"])
     words[0] == "a"
   end
 end
+
+
+def sum_array(array)
+  
+  
+  
   
  
